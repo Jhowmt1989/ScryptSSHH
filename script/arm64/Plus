@@ -207,12 +207,12 @@ echo -e "\n\033[1;36mATIVANDO KEY... \033[0m" ; rm $_Ink/listARM >/dev/null 2>&1
     echo "clear" >>/root/.bashrc
     echo 'DATE=$(date +"%d-%m-%y")' >>/root/.bashrc
     echo 'TIME=$(date +"%T")' >>/root/.bashrc
-    echo 'figlet -k TALIS-NET | lolcat' >>/root/.bashrc
+    echo 'figlet -k JHOWMT-NET | lolcat' >>/root/.bashrc
     echo 'echo -e " NOME DO SERVIDOR : $HOSTNAME"' >>/root/.bashrc
     echo 'echo -e " SERVIDOR LIGADO À : $(uptime -p)"' >>/root/.bashrc
     echo 'echo -e " DATA : $DATE"' >>/root/.bashrc
     echo 'echo -e " HORA : $TIME"' >>/root/.bashrc
-    echo 'echo -e "TALISNET OFICIAL"' >>.bashrc
+    echo 'echo -e "JHOWMT OFICIAL"' >>.bashrc
     echo 'echo -e "\033[1;32m ##################\033[0m."' >>/root/.bashrc
     echo 'echo -e ""' >>/root/.bashrc
     date=$(date '+%Y-%m-%d <> %H:%M:%S')
