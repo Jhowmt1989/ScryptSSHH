@@ -11,9 +11,10 @@
 # 
 Só joga na máquina e deixar instalar✔️
 
-• atualiza sistema
+# - Atualiza/Sistema
 
-• desativa Ipv6
+apt update -y && apt upgrade -y
+apt install unzip python3 -y
 
 • instala recursos e o script 👇
 ```
